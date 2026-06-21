@@ -31,20 +31,6 @@ Proyecto de arquitectura de computadores que combina dos áreas fundamentales: *
 | Políticas de escritura | Write-through, Write-back |
 | Métricas | Hit rate, Miss penalty, AMAT |
 
-## Contenido del repositorio
-
-| Archivo | Descripción |
-|---|---|
-| `*.pdf` | Análisis completo con simulaciones y cálculos |
-| `Tablas.xlsx` | Cálculos de AMAT y comparativa de políticas |
-
-## Contexto académico
-
-**Asignatura:** Tecnología de Computadores · **Institución:** Ingeniería Informática
-**Autor:** Alejandro De Mendoza — Ingeniero Informático · Máster Arquitectura de Software
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -59,6 +45,20 @@ flowchart TD
     C --> I[Politicas de Escritura: Write-through / Write-back]
     C --> J[Metricas AMAT - Tiempo de Acceso Medio]
 ```
+
+## Contenido del repositorio
+
+| Archivo | Descripción |
+|---|---|
+| `*.pdf` | Análisis completo con simulaciones y cálculos |
+| `Tablas.xlsx` | Cálculos de AMAT y comparativa de políticas |
+
+## Contexto académico
+
+**Asignatura:** Tecnología de Computadores · **Institución:** Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Máster Arquitectura de Software
+
+---
 
 ## Autor
 
