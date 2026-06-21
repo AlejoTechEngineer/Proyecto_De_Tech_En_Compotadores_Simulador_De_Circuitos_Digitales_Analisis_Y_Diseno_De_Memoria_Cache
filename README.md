@@ -1,3 +1,5 @@
+<div align="center">
+
 # Simulador de Circuitos Digitales y Análisis de Memoria Caché
 
 ![Computer Architecture](https://img.shields.io/badge/Arquitectura-Computadores-1565C0?style=for-the-badge)
@@ -7,6 +9,10 @@
 > Simulación de circuitos digitales y análisis de diseño de jerarquía de memoria caché.
 
 ## Descripción
+
+</div>
+
+---
 
 Proyecto de arquitectura de computadores que combina dos áreas fundamentales: **simulación de circuitos digitales** (compuertas lógicas, flip-flops, circuitos combinacionales y secuenciales) y **análisis de diseño de memoria caché** (jerarquía L1/L2/L3, políticas de reemplazo, modos de escritura y cálculo de tasas de acierto).
 
@@ -36,3 +42,12 @@ Proyecto de arquitectura de computadores que combina dos áreas fundamentales: *
 
 **Asignatura:** Tecnología de Computadores · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Máster Arquitectura de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
