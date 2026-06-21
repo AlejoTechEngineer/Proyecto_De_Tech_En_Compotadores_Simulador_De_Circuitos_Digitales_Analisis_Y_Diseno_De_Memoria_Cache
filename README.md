@@ -45,6 +45,21 @@ Proyecto de arquitectura de computadores que combina dos áreas fundamentales: *
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Simulador_Circuitos_Y_Cache] --> B[Circuitos Digitales]
+    A --> C[Memoria Cache]
+    B --> D[Compuertas: AND/OR/NOT/NAND/NOR/XOR]
+    B --> E[Combinacionales: MUX / Sumadores / ALU]
+    B --> F[Secuenciales: Flip-Flops / Registros / Contadores]
+    C --> G[Mapeo Directo / Asociativa / Totalmente Asociativa]
+    C --> H[Politicas de Reemplazo: LRU / FIFO / Random]
+    C --> I[Politicas de Escritura: Write-through / Write-back]
+    C --> J[Metricas AMAT - Tiempo de Acceso Medio]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
